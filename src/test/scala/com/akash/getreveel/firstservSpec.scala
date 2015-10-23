@@ -11,6 +11,6 @@ class firstservSpec extends ScalatraSpec { def is =
   addServlet(classOf[firstserv], "/*")
 
   def root200 = get("/") {
-    status must_== 200
+    status must_== 2000
   }
 }
