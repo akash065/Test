@@ -1,6 +1,6 @@
 # Myapp #
 
-## Build & Run ##
+## Build & Ru ##
 
 ```sh
 $ cd Myapp
